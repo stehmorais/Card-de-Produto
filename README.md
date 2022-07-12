@@ -2,7 +2,7 @@
  Cartão para descrição de um perfume
 
 <p align="center">
-   <img src="" width="600">
+   <img src="https://user-images.githubusercontent.com/97535906/178505024-799429b1-d5ce-42e5-bb3a-00cbb3623c8b.png" width="600">
 </p>
 
 🇧🇷
@@ -22,7 +22,7 @@ O Projeto é um cartão para mostrar as descrições de um produto e outras info
 
 <br>
 
-<p align="center">Made with 💜 by Ester</p>
+<p align="center">Made with 🤍 by Ester</p>
 
 
 
